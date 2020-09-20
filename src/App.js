@@ -1,12 +1,12 @@
 import React from "react";
 import "./App.css";
 
-import { TextInput } from "./components/text-input";
+import { Lab } from "./lab/lab";
 
 function App() {
   return (
     <div className="App">
-      <TextInput />
+      <Lab />
     </div>
   );
 }

@@ -1,5 +1,4 @@
 .App {
-  text-align: center;
   background-color: #282c34;
   min-height: 100vh;
   display: flex;
@@ -8,17 +7,4 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: #61dafb;
-}
-
-.input {
-  background-color: #282c34;
-  font-size: calc(10px + 2vmin);
-  padding: 10px;
-  border: 1px solid #61dafb;
-  border-radius: 5px;
-  color: #61dafb;
-}
-
-.input:focus {
-  outline: none;
 }
